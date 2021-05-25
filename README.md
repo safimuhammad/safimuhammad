@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safimuhammad&label=Profile%20views&color=0e75b6&style=flat" alt="safimuhammad" /> </p>
 
+<p align="left"> <a href="https://twitter.com/safiwahid3" target="blank"><img src="https://img.shields.io/twitter/follow/safiwahid3?logo=twitter&style=for-the-badge" alt="safiwahid3" /></a> </p>
+
 - 🔭 I’m currently working on [Foodie](https://github.com/safimuhammad/Foodie-app)
 
 - 🌱 I’m currently learning **Tensorflow and React**
