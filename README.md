@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safimuhammd&label=Profile%20views&color=0e75b6&style=flat" alt="safimuhammd" /> </p>
 
-<p align="left"> <a href="https://twitter.com/safiwahid3" target="blank"><img src="https://img.shields.io/twitter/follow/safiwahid3?logo=twitter&style=for-the-badge" alt="safiwahid3" /></a> </p>
-
 - 🔭 I’m currently working on [Foodie](https://github.com/safimuhammad/Foodie-app)
 
 - 🌱 I’m currently learning **Tensorflow and React**
@@ -29,7 +27,7 @@
 <a href="https://linkedin.com/in/safi wahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="safi wahid" height="30" width="40" /></a>
 <a href="https://fb.com/muhammad safi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="muhammad safi" height="30" width="40" /></a>
 <a href="https://instagram.com/safi wahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="safi wahid" height="30" width="40" /></a>
-<a href="https://medium.com/safiwahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="safiwahid" height="30" width="40" /></a>
+<a href="https://medium.com/@safiwahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@safiwahid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,6 +36,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safimuhammd&show_icons=true&locale=en&layout=compact" alt="safimuhammd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safimuhammd&show_icons=true&locale=en" alt="safimuhammd" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safimuhammd&" alt="safimuhammd" /></p>
-
