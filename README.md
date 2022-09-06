@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Muhammad Safi</h1>
-<h3 align="center">A passionate developer from Pakistan , I mostly work in python ML/DL enthusiast also a React JS and React native developer.</h3>
+<h3 align="center">A passionate developer from Pakistan , I mostly work in python, ML/DL enthusiast also a React JS and React native developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safimuhammad&label=Profile%20views&color=0e75b6&style=flat" alt="safimuhammad" /> </p>
 
 <p align="left"> <a href="https://twitter.com/safiwahid3" target="blank"><img src="https://img.shields.io/twitter/follow/safiwahid3?logo=twitter&style=for-the-badge" alt="safiwahid3" /></a> </p>
 
-- 🔭 I’m currently working on [Foodie](https://github.com/safimuhammad/Foodie-app)
+- 🔭 I’m currently working on [Karplus-Strong algorithm](https://github.com/safimuhammad/Foodie-app)
 
 - 🌱 I’m currently learning **Tensorflow and React**
 
-- 👯 I’m looking to collaborate on [Foodie](https://github.com/safimuhammad/Foodie-app)
+- 👯 I’m looking to collaborate on [Foodie](https://github.com/safimuhammad/Karplus-Strong-Algorithm)
 
 - 👨‍💻 All of my projects are available at [https://github.com/safimuhammad](https://github.com/safimuhammad)
 
-- 📝 I regularly write articles on [https://safiwahid38.medium.com/](https://safiwahid38.medium.com/)
+- 📝 I sometimes write articles on [https://safiwahid38.medium.com/](https://safiwahid38.medium.com/)
 
 - 💬 Ask me about **React , python**
 
@@ -26,10 +26,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/safiwahid3" target="blank"><img align="center" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" alt="safiwahid3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/safi-wahid-7210b0207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="safi-wahid-7210b0207/" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad.safi.775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="muhammad.safi.775" height="30" width="40" /></a>
-<a href="https://instagram.com/safiwahid38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="safiwahid38" height="30" width="40" /></a>
-<a href="https://medium.com/@safiwahid38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@safiwahid38" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/safi-wahid-7210b0207/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="safi-wahid-7210b0207/" height="30" width="40" /></a>
+<a href="https://fb.com/muhammad.safi.775" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/800px-Facebook_Logo_%282019%29.png" alt="muhammad.safi.775" height="30" width="40" /></a>
+<a href="https://medium.com/@safiwahid38" target="blank"><img align="center" src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png" alt="@safiwahid38" height="30" width="90" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
