@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Tensorflow and React**
 
-- 👯 I’m looking to collaborate on [Foodie](https://github.com/safimuhammad/Karplus-Strong-Algorithm)
+- 👯 I’m looking to collaborate on [Karplus-Strong algorithm](https://github.com/safimuhammad/Foodie-app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/safimuhammad](https://github.com/safimuhammad)
 
