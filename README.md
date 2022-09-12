@@ -37,3 +37,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safimuhammad&show_icons=true&locale=en&layout=compact" alt="safimuhammad" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safimuhammad&show_icons=true&locale=en" alt="safimuhammad" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safimuhammad&" alt="safimuhammad" /></p>
