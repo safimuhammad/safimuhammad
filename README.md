@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/safiwahid3" target="blank"><img src="https://img.shields.io/twitter/follow/safiwahid3?logo=twitter&style=for-the-badge" alt="safiwahid3" /></a> </p>
 
-- 🔭 I’m currently working on [Karplus-Strong algorithm](https://github.com/safimuhammad/Karplus-Strong-Algorithm)
+- 🔭 I’m currently working on [flock-of-birds](https://github.com/safimuhammad/flock-of-birds)
 
 - 🌱 I’m currently learning **Tensorflow and React**
 
