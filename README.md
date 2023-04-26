@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Safi</h1>
-<h3 align="center">A passionate developer from Pakistan , I mostly work in python, ML/DL enthusiast also a React JS and React native developer.</h3>
+<h3 align="center">Curious Developer with a passion for solving big problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safimuhammad&label=Profile%20views&color=0e75b6&style=flat" alt="safimuhammad" /> </p>
 
