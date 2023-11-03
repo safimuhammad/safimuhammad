@@ -3,19 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safimuhammad&label=Profile%20views&color=0e75b6&style=flat" alt="safimuhammad" /> </p>
 
-<p align="left"> <a href="https://twitter.com/safiwahid3" target="blank"><img src="https://img.shields.io/twitter/follow/safiwahid3?logo=twitter&style=for-the-badge" alt="safiwahid3" /></a> </p>
 
-- 🔭 I’m currently working on [flock-of-birds](https://github.com/safimuhammad/flock-of-birds)
+- 🔭 I’m currently working on [Genesis-GPT](https://github.com/safimuhammad/Genesis-GPT)
 
-- 🌱 I’m currently learning **Tensorflow and React**
+- 🌱 I’m currently learning **Autonomous Agents and multimodal LLMs**
 
-- 👯 I’m looking to collaborate on [Karplus-Strong algorithm](https://github.com/safimuhammad/Karplus-Strong-Algorithm)
+- 👯 I’m looking to collaborate on [Genesis-GPT](https://github.com/safimuhammad/Genesis-GPT)
 
 - 👨‍💻 All of my projects are available at [https://github.com/safimuhammad](https://github.com/safimuhammad)
 
 - 📝 I sometimes write articles on [https://safiwahid38.medium.com/](https://safiwahid38.medium.com/)
 
-- 💬 Ask me about **React , python**
+- 💬 Ask me about **Autonomous agents, large language models, React, python** 
 
 - 📫 How to reach me **safiwahid38@gmail.com**
 
