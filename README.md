@@ -1,13 +1,26 @@
-<h4 align="left">Hi there! 👋 I'm Muhammad Safi, a passionate software engineer 🧑‍💻 with a knack for turning complex problems into elegant solutions. Whether it's crafting dynamic web applications with React ⚛️ or diving into the depths of machine learning and generative AI 🤖, I thrive on innovation and creativity. Let's connect and build the future together! 🚀</h4>
+# <p align="center"> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm **Muhammad Safi**
+
+A dedicated software engineer 🧑‍💻 with a passion for Python. My expertise spans Django, FastAPI, Flask, LLMs, MLops, CI/CD, and much more. I thrive on contributing to open-source projects and excel in using Langchain, LlamaIndex, and autogen. Let's create something extraordinary together! 🚀
+ </p>
+
+###
+<p align="center">
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=socrates" alt="Quote">
+</p>
+
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safimuhammad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=safimuhammad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=safimuhammad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=safimuhammad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h3 align="center">Technologies I usually work with</h3>
 
 ###
 
@@ -49,6 +62,10 @@
 
 ###
 
+<h3 align="center">Feel free to connect with me to explore new possibilities and collaborations.</h3>
+
+###
+
 <div align="center">
   <a href="https://www.instagram.com/safiwahid38/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -56,7 +73,7 @@
   <a href="https://discordapp.com/users/msafi38/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="safiwahid38@gmail.com" target="_blank">
+  <a href="mailto:muhammad.safi@example.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-safi-7210b0207/" target="_blank">
@@ -69,10 +86,13 @@
 
 ###
 
+
 <br clear="both">
+<p align="center">
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/safimuhammad/safimuhammad/output/github-contribution-grid-snake.svg" />
 
 ###
+<p align="center">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/safimuhammad/count.svg?"  />
