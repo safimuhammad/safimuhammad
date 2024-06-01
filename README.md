@@ -73,7 +73,7 @@ A dedicated software engineer 🧑‍💻 with a passion for Python. My expertis
   <a href="https://discordapp.com/users/msafi38/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="mailto:muhammad.safi@example.com" target="_blank">
+  <a href="mailto:safiwahid38@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-safi-7210b0207/" target="_blank">
