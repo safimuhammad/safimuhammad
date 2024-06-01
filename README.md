@@ -1,37 +1,82 @@
-<h1 align="center">Hi 👋, I'm Muhammad Safi</h1>
-<h3 align="center">Curious Developer with a passion for solving big problems.</h3>
+<h4 align="left">Hi there! 👋 I'm Muhammad Safi, a passionate software engineer 🧑‍💻 with a knack for turning complex problems into elegant solutions. Whether it's crafting dynamic web applications with React ⚛️ or diving into the depths of machine learning and generative AI 🤖, I thrive on innovation and creativity. Let's connect and build the future together! 🚀</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=safimuhammad&label=Profile%20views&color=0e75b6&style=flat" alt="safimuhammad" /> </p>
+###
 
+<br clear="both">
 
-- 🔭 I’m currently working on [Genesis-GPT](https://github.com/safimuhammad/Genesis-GPT)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=safimuhammad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=safimuhammad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 🌱 I’m currently learning **Autonomous Agents and multimodal LLMs**
+###
 
-- 👯 I’m looking to collaborate on [Genesis-GPT](https://github.com/safimuhammad/Genesis-GPT)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/safimuhammad](https://github.com/safimuhammad)
+###
 
-- 📝 I sometimes write articles on [https://safiwahid38.medium.com/](https://safiwahid38.medium.com/)
+<div align="center">
+  <a href="https://www.instagram.com/safiwahid38/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discordapp.com/users/msafi38/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="safiwahid38@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-safi-7210b0207/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@safiwahid38" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+</div>
 
-- 💬 Ask me about **Autonomous agents, large language models, React, python** 
+###
 
-- 📫 How to reach me **safiwahid38@gmail.com**
+<br clear="both">
 
-- 📄Check me on LinkedIn [https://www.linkedin.com/in/safi-wahid-7210b0207/](https://www.linkedin.com/in/safi-wahid-7210b0207/)
+<img src="https://raw.githubusercontent.com/safimuhammad/safimuhammad/output/snake.svg" alt="Snake animation" />
 
-- ⚡ Fun fact **I am a club level football player , tech geek and a part-time gamer.**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/safiwahid3" target="blank"><img align="center" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" alt="safiwahid3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/safi-wahid-7210b0207/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="safi-wahid-7210b0207/" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad.safi.775" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/800px-Facebook_Logo_%282019%29.png" alt="muhammad.safi.775" height="30" width="40" /></a>
-<a href="https://medium.com/@safiwahid38" target="blank"><img align="center" src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png" alt="@safiwahid38" height="30" width="90" /></a>
-</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/safimuhammad/count.svg?"  />
+</div>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safimuhammad&show_icons=true&locale=en&layout=compact" alt="safimuhammad" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safimuhammad&" alt="safimuhammad" /></p>
+###
