@@ -11,6 +11,7 @@ A dedicated software engineer 🧑‍💻 with a passion for Python. My expertis
 
 ###
 
+
 <br clear="both">
 
 <div align="center">
@@ -19,6 +20,7 @@ A dedicated software engineer 🧑‍💻 with a passion for Python. My expertis
 </div>
 
 ###
+<br></br>
 
 <h3 align="center">Technologies I usually work with</h3>
 
@@ -61,7 +63,7 @@ A dedicated software engineer 🧑‍💻 with a passion for Python. My expertis
 </div>
 
 ###
-
+<br></br>
 <h3 align="center">Feel free to connect with me to explore new possibilities and collaborations.</h3>
 
 ###
@@ -98,4 +100,12 @@ A dedicated software engineer 🧑‍💻 with a passion for Python. My expertis
   <img src="https://profile-counter.glitch.me/safimuhammad/count.svg?"  />
 </div>
 
+<br></br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=safimuhammad&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
 ###
+
+
+
